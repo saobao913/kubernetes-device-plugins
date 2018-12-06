@@ -34,6 +34,6 @@
   name = "github.com/kubevirt/device-plugin-manager"
 
 [[constraint]]
-  version = "~v1.10"
+  version = "~v1.13.0"
   name = "k8s.io/kubernetes"
 
